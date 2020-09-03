@@ -1,0 +1,47 @@
+python : 
+1-Class:
+
+
+5-Class:
+14 Dadatypes in Python :
+init 
+float
+complex
+bool 
+str 
+
+bytes
+bytearray
+range
+list
+tuble
+set
+frozenset
+dict 
+None
+
+init:
+The main purpose of int datatype is to represent integral value , without decimal point, is consider as int datatype
+
+
+
+
+20-Class:
+Transfer statement:
+------------------- 
+Transfering the control from one place to another then we should go for transfer statement
+break: break loop condition then we should go for break.
+example: 
+for i in range(10):
+	print(i)
+Now what it will give the output 0 to 9 but now requirement is when the i value is 7 needs to stop (break loop execuation)
+
+for i in range (10):
+	if i == 7 :
+	     print('Pocessing is enough just break')
+	     break  
+    print(i)  ---------here means that if 'i' is not seven simply print the i value .   	
+	
+
+	
+	
