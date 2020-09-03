@@ -22,7 +22,7 @@ None
 
 init:
 The main purpose of int datatype is to represent integral value , without decimal point, is consider as int datatype
-
+	
 
 
 
@@ -42,6 +42,14 @@ for i in range (10):
 	     break  
     print(i)  ---------here means that if 'i' is not seven simply print the i value .   	
 	
+When we talk about int datatype we need to just know about four type of data that is 
+1.decimal - all values init 
+2.binary -2 
+3.Octal - 8
+4.hexa decimal - 16 
+
+
+
 
 	
 	
