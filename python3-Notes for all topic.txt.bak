@@ -42,16 +42,7 @@ and 20j is the imaginary part
  10.5+20.6j
  20.6j+ 10  all are acceptable
 0B1111+10.5j
-10+0B1111j  ===> this example is not valied real part we need to take any format like binary,octal,hexa like that but imaginary part 
-compulsary Only decimal part 
-
-
-
-
-
-
-
-
+10+0B1111j  === real part we need to take any format like binary,octal,hexa like that but imaginary part compulsary Only decimal part 
 
 
 
