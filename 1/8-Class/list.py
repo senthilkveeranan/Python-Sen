@@ -1,9 +1,17 @@
-list:
+list[]:
 When we go for list data type ?
 if you want to represent a group of objects as a single entity where 
 insertion orser is preserved and 
 duplicates are allowd 
-Any type of value like init,str,float No problem at all 
+hetogeneous objects are allowd 
+dynamic in nature ..!!Based on our requirement we can increase and decrease the element
+List is mutable 
+
+Any type of value like init,str,float No problem at all , if you want represent we need to use squre bracket 
+[]  ====> list
+()  ====> tuple
+{}  ====> set 
+{k:v,k:v} ===> dict 
 
 Ex:
 
@@ -28,6 +36,15 @@ print(id(0))
 print(id(5))
 print(len(l))
 print(id(l))
+
+
+list is mutable below are the example 
+
+l=[10,20,30]
+l[0]=777
+print(l)
+
+
 
 
 
