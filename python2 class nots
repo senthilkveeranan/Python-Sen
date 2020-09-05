@@ -1,0 +1,5 @@
+def f1():
+	print('Hello')
+	None
+	
+print(f1())

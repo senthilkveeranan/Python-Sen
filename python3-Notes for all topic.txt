@@ -1,7 +1,6 @@
 python : 
-
 1-Class:
-5-Class:
+
 14 Dadatypes in Python :
 init 
 float
@@ -22,44 +21,26 @@ None
 init:
 The main purpose of int datatype is to represent integral value , without decimal point, is consider as int datatype
 	
-When we talk about int datatype we need to just know about four type of data that is 
-1.decimal - all values init 
-2.binary -2 
-3.Octal - 8
-4.hexa decimal - 16 
+6-Class:
+-------
+#int==> Without having decimal point is called "int" type , how large it is no worries
+#float==> Noumber with decimal point is consider as float(doller,desiel price)
+#bool==>True / False are only allowd values
+#complex==> 10+20j is complex numbers
+#str==> Any sequance of charector with in single or doucble quote is called "str"
+#driple quotes are allowd where-> to define multiline leterals
+#to use single qoutes and double quotes as symbol then we can use triple quotes
 
-bin()
-oct()
-hex()
+#in python how you can access of the charector of the string?
+#python supports 
+#+ve index--0,1,2,3, 
+#-ve index ---1,-2,-3
 
-Float:
-complex:
-10+20j === These type of data is consider as complex numbre (Electical engineering applications or mathamatical application its usefull)
-Here 10 is real part 
-and 20j is the imaginary part 
- in both real and imaginary part we can take int value or float value which is acceptable bellow are the examples
- like 10+5.5j
- 10.5+20.6j
- 20.6j+ 10  all are acceptable
-0B1111+10.5j
-10+0B1111j  ===> this example is not valied real part we need to take any format like binary,octal,hexa like that but imaginary part 
-compulsary Only decimal part 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#slice operator:
+#slice operator is applicable only in python 
+#slice means pice 
+#slice always going to consider bgin and end-1 
+#slice operator never through error
 
 20-Class:
 Transfer statement:
@@ -77,14 +58,11 @@ for i in range (10):
 	     break  
     print(i)  ---------here means that if 'i' is not seven simply print the i value .   	
 	
-
-
-
-
-
-
-
-
+When we talk about int datatype we need to just know about four type of data that is 
+1.decimal - all values init 
+2.binary -2 
+3.Octal - 8
+4.hexa decimal - 16 
 
 
 
