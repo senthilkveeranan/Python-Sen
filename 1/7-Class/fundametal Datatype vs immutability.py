@@ -6,3 +6,16 @@ there are Five fundametal data types are there
 4.bool
 5.str
 
+list 
+set
+bytearray there three are mutable objects
+
+
+
+
+
+
+
+
+
+
